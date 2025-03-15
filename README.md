@@ -109,7 +109,7 @@ Sinta-se à vontade para explorar meus projetos! 🚀
     <span style="vertical-align: middle;">Tailwind</span>
 </p>
 
-## Back-end e banco de dados:
+## ⚙️ Back-end e banco de dados:
 <p>
     <img 
         align="left" 
