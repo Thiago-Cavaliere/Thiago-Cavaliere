@@ -11,7 +11,7 @@ Sinta-se à vontade para explorar meus projetos! 🚀
 
 ---
 
-### 🥷 Linguagens e Tecnologias:
+## 🥷 Linguagens e Tecnologias:
 
 <p>
     <img 
