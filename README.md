@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-## Me chamo Thiago Cavaliére Moreira de Araújo 👋
+## Me chamo Thiago Cavaliére 👋
 
 Sou natural de Barbacena-MG, e atualmente estou cursando **Sistemas para Internet**. Tenho **34 anos** e sou apaixonado por **tecnologia** e **Inteligência Artificial**. Ao longo da minha jornada, me especializei em **desenvolvimento de software**, sempre com muito foco e dedicação ao que faço. Busco sempre aprender mais, principalmente sobre **Front-end**, **back-end** e **IA**, e estou sempre em busca de novas soluções tecnológicas. <br>
 Sinta-se à vontade para explorar meus projetos! 🚀
