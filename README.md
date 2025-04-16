@@ -13,126 +13,24 @@ Sinta-se à vontade para explorar meus projetos! 🚀
 
 ## 🥷 Linguagens e Tecnologias:
 
-<p>
-    <img 
-        align="left" 
-        alt="HTML" 
-        title="HTML"
-        width="30px" 
-        style="padding-right: 10px; vertical-align: middle;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
-    />
-    <span style="vertical-align: middle;">HTML</span>
-</p>
-
-<p>
-    <img 
-        align="left" 
-        alt="CSS" 
-        title="CSS"
-        width="30px" 
-        style="padding-right: 10px; vertical-align: middle;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
-    />
-    <span style="vertical-align: middle;">CSS</span>
-</p>
-
-<p>
-    <img 
-        align="left" 
-        alt="JavaScript" 
-        title="JavaScript"
-        width="30px" 
-        style="padding-right: 10px; vertical-align: middle;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
-    />
-    <span style="vertical-align: middle;">JavaScript</span>
-</p>
-
-<p>
-    <img 
-        align="left" 
-        alt="React" 
-        title="React"
-        width="30px" 
-        style="padding-right: 10px; vertical-align: middle;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 
-    />
-    <span style="vertical-align: middle;">React</span>
-</p>
-
-<p>
-    <img 
-        align="left" 
-        alt="Material UI" 
-        title="Material UI"
-        width="30px" 
-        style="padding-right: 10px; vertical-align: middle;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" 
-    />
-    <span style="vertical-align: middle;">Material UI</span>
-</p>
-
-<p>
-    <img 
-        align="left" 
-        alt="Git" 
-        title="Git"
-        width="30px" 
-        style="padding-right: 10px; vertical-align: middle;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
-    />
-    <span style="vertical-align: middle;">Git</span>
-</p>
-
-<p>
-    <img 
-        align="left" 
-        alt="Bootstrap" 
-        title="Bootstrap"
-        width="30px" 
-        style="padding-right: 10px; vertical-align: middle;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" 
-    />
-    <span style="vertical-align: middle;">Bootstrap</span>
-</p>
-
-<p>
-    <img 
-        align="left" 
-        alt="Tailwind" 
-        title="Tailwind CSS"
-        width="30px" 
-        style="padding-right: 10px; vertical-align: middle;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" 
-    />
-    <span style="vertical-align: middle;">Tailwind</span>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="30px" style="padding-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="30px" style="padding-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="30px" style="padding-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="30px" style="padding-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="30px" style="padding-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="30px" style="padding-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="30px" style="padding-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="Tailwind" width="30px" style="padding-right:10px;" />
 </p>
 
 ## ⚙️ Back-end e banco de dados:
-<p>
-    <img 
-        align="left" 
-        alt="Node.js" 
-        title="Node.js"
-        width="30px" 
-        style="padding-right: 10px; vertical-align: middle;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" 
-    />
-    <span style="vertical-align: middle;">Node.js</span>
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="30px" style="padding-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="30px" style="padding-right:10px;" />
 </p>
 
-<p>
-    <img 
-        align="left" 
-        alt="MongoDB" 
-        title="MongoDB"
-        width="30px" 
-        style="padding-right: 10px; vertical-align: middle;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" 
-    />
-    <span style="vertical-align: middle;">MongoDB</span>
-</p>
 
 
 
