@@ -12,47 +12,51 @@ Sinta-se à vontade para explorar meus projetos! 🚀
 ---
 
 ## 🥷 Linguagens e Tecnologias:
-<td align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40px" style="border: none; background: none;" />
-  <br/>HTML
-</td>
 
-<table>
-  <tr>
-    <td align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40px" style="border: none; background: none;" />
-  <br/>HTML
-</td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40px" style="border: none; background: none;" />
-      <br/>CSS
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40px" style="border: none; background: none;" />
-      <br/>JavaScript
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px" style="border: none; background: none;" />
-      <br/>React
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="40px" style="border: none; background: none;" />
-      <br/>Material UI
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="40px" style="border: none; background: none;" />
-      <br/>Git
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40px" style="border: none; background: none;" />
-      <br/>Bootstrap
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40px" style="border: none; background: none;" />
-      <br/>Tailwind
-    </td>
-  </tr>
-</table>
+<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+
+  <div align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40px" style="border: none; background: none;" />
+    <div>HTML</div>
+  </div>
+
+  <div align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40px" style="border: none; background: none;" />
+    <div>CSS</div>
+  </div>
+
+  <div align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40px" style="border: none; background: none;" />
+    <div>JavaScript</div>
+  </div>
+
+  <div align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px" style="border: none; background: none;" />
+    <div>React</div>
+  </div>
+
+  <div align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="40px" style="border: none; background: none;" />
+    <div>Material UI</div>
+  </div>
+
+  <div align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="40px" style="border: none; background: none;" />
+    <div>Git</div>
+  </div>
+
+  <div align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40px" style="border: none; background: none;" />
+    <div>Bootstrap</div>
+  </div>
+
+  <div align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40px" style="border: none; background: none;" />
+    <div>Tailwind</div>
+  </div>
+
+</div>
+
 
 
 ## ⚙️ Back-end e banco de dados:
