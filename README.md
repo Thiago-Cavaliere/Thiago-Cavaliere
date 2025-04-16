@@ -16,7 +16,7 @@ Sinta-se à vontade para explorar meus projetos! 🚀
 <table>
   <tr>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" style="background: none;" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" style="background: none border:none;" />
       <br/>HTML
     </td>
     <td align="center">
