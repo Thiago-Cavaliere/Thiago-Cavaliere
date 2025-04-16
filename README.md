@@ -134,28 +134,6 @@ Sinta-se à vontade para explorar meus projetos! 🚀
     <span style="vertical-align: middle;">MongoDB</span>
 </p>
 
-
-
-## ⚙️ Back-end e banco de dados:
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40px" style="background: none;" />
-      <br/>Node.js
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40px" style="background: none;" />
-      <br/>MongoDB
-    </td>
-  </tr>
-</table>
-
-
-
-
-
-
 <br/>
 <br/>
 
