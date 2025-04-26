@@ -16,7 +16,7 @@ Aqui compartilho projetos que refletem minha evolução e paixão pela tecnologi
 
 ## 🥷 Linguagens e Tecnologias:
 
-<table>
+<table border="0">
   <tr>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" /><br>HTML
@@ -47,7 +47,7 @@ Aqui compartilho projetos que refletem minha evolução e paixão pela tecnologi
 
 ## ⚙️ Back-end e Banco de Dados:
 
-<table>
+<table border="0">
   <tr>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40px" /><br>Node.js
@@ -57,7 +57,6 @@ Aqui compartilho projetos que refletem minha evolução e paixão pela tecnologi
     </td>
   </tr>
 </table>
-
 
 
 ### 📊 Estatísticas
