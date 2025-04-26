@@ -16,7 +16,7 @@ Aqui compartilho projetos que refletem minha evolução e paixão pela tecnologi
 
 ## 🥷 Linguagens e Tecnologias:
 
-<table border="0">
+<table border={none}>
   <tr>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" /><br>HTML
