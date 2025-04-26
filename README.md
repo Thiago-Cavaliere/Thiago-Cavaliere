@@ -17,43 +17,45 @@ Aqui compartilho projetos que refletem minha evolução e paixão pela tecnologi
 ## 🥷 Linguagens e Tecnologias:
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" />
-  <br>HTML
-</p>
+  <div align="center" style="display: inline-block; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" />
+    <br>HTML
+  </div>
+  
+  <div align="center" style="display: inline-block; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" />
+    <br>CSS
+  </div>
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" />
-  <br>CSS
-</p>
+  <div align="center" style="display: inline-block; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" />
+    <br>JavaScript
+  </div>
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" />
-  <br>JavaScript
-</p>
+  <div align="center" style="display: inline-block; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px" />
+    <br>React
+  </div>
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px" />
-  <br>React
-</p>
+  <div align="center" style="display: inline-block; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="40px" />
+    <br>Material UI
+  </div>
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="40px" />
-  <br>Material UI
-</p>
+  <div align="center" style="display: inline-block; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px" />
+    <br>Git
+  </div>
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px" />
-  <br>Git
-</p>
+  <div align="center" style="display: inline-block; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40px" />
+    <br>Bootstrap
+  </div>
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40px" />
-  <br>Bootstrap
-</p>
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40px" />
-  <br>Tailwind
+  <div align="center" style="display: inline-block; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40px" />
+    <br>Tailwind
+  </div>
 </p>
 
 ---
@@ -61,14 +63,17 @@ Aqui compartilho projetos que refletem minha evolução e paixão pela tecnologi
 ## ⚙️ Back-end e Banco de Dados:
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40px" />
-  <br>Node.js
+  <div align="center" style="display: inline-block; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40px" />
+    <br>Node.js
+  </div>
+
+  <div align="center" style="display: inline-block; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40px" />
+    <br>MongoDB
+  </div>
 </p>
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40px" />
-  <br>MongoDB
-</p>
 
 
 
