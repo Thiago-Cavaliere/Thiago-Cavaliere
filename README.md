@@ -4,11 +4,11 @@
 
 ## Me chamo Thiago Cavaliere 👋
 
-Sou natural de Barbacena-MG, tenho 34 anos e sou movido por tecnologia, inovação e Inteligência Artificial. **Sou formado em Sistemas para Internet**, um curso que une o melhor do desenvolvimento web, desde a criação de interfaces modernas e responsivas (**Front-end**) até a estrutura lógica que faz tudo funcionar nos bastidores (**Back-end**), passando também por bancos de dados, redes e segurança da informação.
+Desenvolvedor apaixonado por tecnologia, inovação e Inteligência Artificial.
+Formado em **Sistemas para Internet** e atualmente cursando **Pós-graduação em Arquitetura de Software**, atuo no desenvolvimento de aplicações completas, do **Front-end** ao **Back-end**, com foco em soluções eficientes e escaláveis.
 
-Com uma base sólida e muita paixão pelo que faço, venho me especializando cada vez mais em **desenvolvimento de software** e estou sempre em busca de novas soluções tecnológicas. Curioso por natureza, estou constantemente aprendendo e explorando novas ferramentas — principalmente nas áreas de Front-end, Back-end e IA. 
-
-Sinta-se à vontade para explorar meus projetos e conhecer um pouco mais do que posso construir. 🚀
+Sou movido pela curiosidade e aprendizado contínuo, sempre buscando aprimorar minhas habilidades em desenvolvimento web, infraestrutura e IA.
+Aqui compartilho projetos que refletem minha evolução e paixão pela tecnologia. 🚀
 
 
 
