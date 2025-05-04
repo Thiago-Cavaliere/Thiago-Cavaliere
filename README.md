@@ -10,7 +10,9 @@ Formado em **Sistemas para Internet** e atualmente cursando **Pós-graduação e
 Sou movido pela curiosidade e aprendizado contínuo, sempre buscando aprimorar minhas habilidades em desenvolvimento web, infraestrutura e IA.
 Aqui compartilho projetos que refletem minha evolução e paixão pela tecnologia. 🚀
 
-
+Meu site pessoal: <a href="https://portfolio-nu-nine-95.vercel.app/" target="_blank" rel="noopener noreferrer">
+  Acessar meu Portfólio
+</a>
 
 ---
 
