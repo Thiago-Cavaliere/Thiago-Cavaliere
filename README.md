@@ -5,7 +5,7 @@
 ## Me chamo Thiago Cavaliere 👋
 
 Desenvolvedor apaixonado por tecnologia, inovação e Inteligência Artificial.
-Formado em **Sistemas para Internet** e atualmente cursando **Pós-graduação em Arquitetura de Software**, atuo no desenvolvimento de aplicações completas, do **Front-end** ao **Back-end**, com foco em soluções eficientes e escaláveis.
+Formado em **Sistemas para Internet** e atualmente cursando **Pós-graduação em Arquitetura de Software**, atuo no desenvolvimento de aplicações completas, do **Front-end** ao **Back-end**.
 
 Sou movido pela curiosidade e aprendizado contínuo, sempre buscando aprimorar minhas habilidades em desenvolvimento web, infraestrutura e IA.
 Aqui compartilho projetos que refletem minha evolução e paixão pela tecnologia. 🚀
